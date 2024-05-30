@@ -13,7 +13,7 @@ the game; Ability to save progress and continue playing at any time
 When working, computers with the presence of a monitor and keyboard are used.
 
 +-----------------------------------------Calling and downloading--------------------------------------+
-Calling and loading of the program is carried out by launching the executable file contact.exe.
+Calling and loading of the program is carried out by launching the executable file competition.exe.
 
 +------------------------------------------Input data---------------------------------------+
 As input data, the data entered by the user from the keyboard, as well as the data of the configuration file are used.
