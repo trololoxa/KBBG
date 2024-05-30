@@ -1,0 +1,33 @@
++=====================================================USER MANUAL=====================================================+
+Purpose of the game
+    The game “Artistic Duel” is designed to practice skills of writing a course project in C++ using the principles of
+    object-oriented programming (OOP). The game develops players' planning and strategic thinking skills: in order to
+    survive as long as possible, the player must effectively manage resources in the form of paintings and coins.
+
+Target audience
+    Programmers who want to familiarize themselves with the source code of the project.
+    Fans of games in the “Rogue-like” genre.
+    Anyone interested in improving their planning skills.
+System Requirements
+    Operating system: Microsoft Windows 7 and higher.
+    Processor architecture: Core 2 Duo E6300 or higher.
+    Memory capacity: 1 to 4 MB.
+    Hardware requirements: keyboard for input.
+Interface
+    The main screen of the game is a Windows console window.
+    Control is performed using the keyboard.
+    Each stage and each location has its own set of actions displayed in the menu.
+Game stages
+    Stage 1: Selecting a location
+        The player finds himself between two doors:
+            First door: the name of the location is displayed.
+            Second door: the name of the location is unknown.
+        Actions in this stage
+            Selecting a door: go to the corresponding location.
+            Saving progress: the player can save the current state of the game.
+    Stage Two: Gameplay
+        After selecting one of the doors, the player enters one of the three locations where gameplay is taking place.
+        After exiting the location, the player gets back to the first stage.
+Restrictions
+    The player cannot perform actions not specified in the location menu.
++==================================================END OF USER MANUAL==================================================+

@@ -1,0 +1,26 @@
+	                         Donetsk National Technical University
+COI Faculty
+PI Department
+
+
+
+
+					     Course project
+			    in the discipline: "Object-Oriented Programming"
+			    on the topic: "Object-oriented system "Artistic duel"".
+
+
+
+Supervisor:                                                                              implement:
+                                                                                         gr. st. PI-23a
+Shchedrin S.V.                                                                           Malyarenko N.E.
+Grishenko D.A.
+
+
+					      Donetsk 2024
+
+
+Start: <ENTER>                                                                      Сменить язык/Change language: <TAB>
+Exit: <ESC>                                                                         About the author: <a>
+User's Manual: <u>                                                                  About the program: <p>
+Manage settings: <s>                                                                Debug_indo: <*>

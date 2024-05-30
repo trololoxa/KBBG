@@ -1,0 +1,7 @@
++==================================================ABOUT THE AUTHOR==================================================+
+The object-oriented system was developed by the student of
+HIGH PROFESSIONAL EDUCATIONAL INSTITUTE "DONETSK NATIONAL TECHNICAL UNIVERSITY"
+Department of "SOFTWARE ENGINEERING" IM. L.P.FELDMAN
+group PI-23a
+Malyarenko Nikolai Eduardovich
++================================================END ABOUT THE AUTHOR================================================+
